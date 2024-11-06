@@ -20,7 +20,7 @@ Comprobar con `$ ls`
 
 Se descargará el archivo en la carpeta moodle. Comprobar con `$ ls`
 
-![Imagen 2](img/img1.jpeg)
+![Imagen 2](img/img2.jpeg)
 
 ### 4. Una vez descargado el archivo, se debe ejecutar con el comando:
 
@@ -28,7 +28,7 @@ Se descargará el archivo en la carpeta moodle. Comprobar con `$ ls`
 
 Se puede utilizar la opción `-d` que realizará el proceso en segundo plano
 
-![Imagen 2](img/img2.jpeg)
+![Imagen 3](img/img3.jpeg)
 
 
 ### 5. Una vez terminada la instalación y configuración del Moodle, verificar que se encuentre activo con el comando:
@@ -40,7 +40,7 @@ Se puede utilizar la opción `-d` que realizará el proceso en segundo plano
 
 Se debe mostrar una pantalla como la siguiente
 
-![Imagen 3](img/img3.jpeg)
+![Imagen 4](img/img4.jpeg)
 
 ## Configuración de Moodle
 
@@ -52,7 +52,7 @@ Contraseña: `bitnami`
 
 ### 2. Se mostrará una pantalla como la siguiente:
 
-![Imagen 4](img/img4.jpeg)
+![Imagen5](img/img5.jpeg)
 
 #### 1. Crear categoria
 
@@ -65,29 +65,29 @@ Contraseña: `bitnami`
 
 ##### 3. Llenamos los campos de los detalles del curso como corresponda y en la sección final seleccionamos la opción para crear el curso
 
-![Imagen 5](img/img5.jpeg)
+![Imagen 6](img/img6.jpeg)
 
 ##### 4. Podremos ver el curso en la pestaña "Home" de la plataforma
 
-![Imagen 6](img/img9.jpeg)
+![Imagen 7](img/img7.jpeg)
 
 #### 3. Agregar usuarios al sistema
 
 ##### 1. Ir a la secciónd "Site Administration" y luego en el menú "Users"
-![Imagen 7](img/usr.jpeg)
-![Imagen 8](img/abajito.jpeg)
+![Imagen 8](img8/usr.jpeg)
+![Imagen 9](img9/abajito.jpeg)
 
 ##### 2. Seleccionar la opción "Add a new user"
 
-![Imagen 9](img/img10.jpeg)
+![Imagen 10](img/img10.jpeg)
 
 ##### 3. Llenar los campos de los detalles del usuario y guardar los cambios
 
-![Imagen 10](img/img11.jpeg)
+![Imagen 11](img/img11.jpeg)
 
 ##### 4. Para modificar la información de un usuario, en el menú "Users", hacer clic en el menú de opciones (engranaje) donde se podrá editar o eliminar el usuario
 
-![Imagen 11](img/img12.jpeg)
+![Imagen 12](img/img12.jpeg)
 
 ### 4. Agregar usuarios al curso
 
@@ -95,9 +95,9 @@ Contraseña: `bitnami`
 
 #### 2. Una vez en la ventana de administración del curso, seleccionar la opción "Enrol users"
 
-![Imagen 12](img/img13.jpeg)
+![Imagen 13](img/img13.jpeg)
 
 #### 3. En la ventana emergente, en el campo de búsqueda, ubicar a los usuarios que se desean agregar al curso y seleccionarlos, una vez terminado, seleccionar "Enrol users"
 
-![Imagen 13](img/img14.jpeg)
+![Imagen 14](img/img14.jpeg)
 
