@@ -1,6 +1,14 @@
 # Despliegue de un LMS Moodle utilizando Docker
-(Subtitulo) Instalar y ejecutar Moodle como contenedor 
-1.- Crea una carpeta que almacenara el archivo .yml En la carpeta se debe escribir el siguiente comando 
+
+## Instalar y ejecutar Moodle como contenedor
+
+### 1. Crear una carpeta para el archivo de configuración
+
+Primero, crea una carpeta que almacenará el archivo `docker-compose.yml`. Para ello, utiliza el siguiente comando en la terminal:
+
+```bash
+mkdir moodle
+ 
       $mkdir moodle
     Se comprueba usando el comando 
       $ls
