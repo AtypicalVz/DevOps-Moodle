@@ -5,12 +5,9 @@
 ### 1. Crear una carpeta para el archivo de configuración
 
 Primero, crea una carpeta que almacenará el archivo `docker-compose.yml`. Para ello, utiliza el siguiente comando en la terminal:
+`$mkdir moodle`
+### Se comprueba usando el comando 
+`$ls`
+### 2.- Se hace el cambio a la carpeta recien creada
 
- `$mkdir moodle`
-
-      $mkdir moodle
-    Se comprueba usando el comando 
-      $ls
-2.- Se hace el cambio a la carpeta recien creada
-
-3.- Para desplegar Moodle es necesario descargar el archivo de configuración docker-compose.yml que permitirá realizar la instalación de Moodle de manera sencilla y automatizada. Para eso, se realiza escribir el siguiente comando:
+### 3.- Para desplegar Moodle es necesario descargar el archivo de configuración docker-compose.yml que permitirá realizar la instalación de Moodle de manera sencilla y automatizada. Para eso, se realiza escribir el siguiente comando:
