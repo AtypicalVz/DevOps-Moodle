@@ -5,7 +5,7 @@
 ### 1. Crear una carpeta para el archivo de configuración
 
 Primero, crea una carpeta que almacenará el archivo `docker-compose.yml`. Para ello se utilizará el siguiente comando en la terminal:
-### `$mkdir moodle`
+`$mkdir moodle`
 ### Se comprueba usando el comando 
 `$ls`
 ### 2.- Se hace el cambio a la carpeta recien creada
