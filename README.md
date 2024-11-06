@@ -79,15 +79,15 @@ Contraseña: `bitnami`
 
 ##### 2. Seleccionar la opción "Add a new user"
 
-![Imagen 8](img/img10.jpeg)
+![Imagen 9](img/img10.jpeg)
 
 ##### 3. Llenar los campos de los detalles del usuario y guardar los cambios
 
-![Imagen 9](img/img11.jpeg)
+![Imagen 10](img/img11.jpeg)
 
 ##### 4. Para modificar la información de un usuario, en el menú "Users", hacer clic en el menú de opciones (engranaje) donde se podrá editar o eliminar el usuario
 
-![Imagen 10](img/img12.jpeg)
+![Imagen 11](img/img12.jpeg)
 
 ### 4. Agregar usuarios al curso
 
@@ -95,9 +95,9 @@ Contraseña: `bitnami`
 
 #### 2. Una vez en la ventana de administración del curso, seleccionar la opción "Enrol users"
 
-![Imagen 11](img/img13.jpeg)
+![Imagen 12](img/img13.jpeg)
 
 #### 3. En la ventana emergente, en el campo de búsqueda, ubicar a los usuarios que se desean agregar al curso y seleccionarlos, una vez terminado, seleccionar "Enrol users"
 
-![Imagen 12](img/img14.jpeg)
+![Imagen 13](img/img14.jpeg)
 
