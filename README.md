@@ -6,9 +6,8 @@
 
 Primero, crea una carpeta que almacenará el archivo `docker-compose.yml`. Para ello, utiliza el siguiente comando en la terminal:
 
-```bash
-mkdir moodle
- 
+ `$mkdir moodle`
+
       $mkdir moodle
     Se comprueba usando el comando 
       $ls
