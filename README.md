@@ -63,11 +63,11 @@ Contraseña: `bitnami`
 
 ##### 1. Ir a la sección "Site Administration" y luego en el menú "Courses"
 
+![Imagen 6](img/img6.jpeg)
+
 ##### 2. Hacer clic en la opción "Add a new course"
 
 ##### 3. Llenamos los campos de los detalles del curso como corresponda y en la sección final seleccionamos la opción para crear el curso
-
-![Imagen 6](img/img6.jpeg)
 
 ##### 4. Podremos ver el curso en la pestaña "Home" de la plataforma
 
