@@ -57,13 +57,14 @@ Contraseña: `bitnami`
 #### 1. Crear categoria
 
 ##### 1. Ir a la sección "Site Administration" y luego en el menú "Courses" daremos click en la opcion añadir categoria 
+##### 2. Procederemos a llenar los campos con la informacion de la categoria y al final le daremos a crear
 
+![Imagen 6](img/img6.jpeg)
 
 #### 2. Crear un curso
 
 ##### 1. Ir a la sección "Site Administration" y luego en el menú "Courses"
 
-![Imagen 6](img/img6.jpeg)
 
 ##### 2. Hacer clic en la opción "Add a new course"
 
