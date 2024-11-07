@@ -6,11 +6,11 @@
 
 `$ mkdir moodle`
 
-Comprobar con `$ ls`
-
 ### 2. Cambiar a la carpeta recién creada
 
 `$ cd moodle`
+
+Comprobar con `$ ls`
 
 ![Imagen 1](img/img1.jpeg)
 
@@ -18,17 +18,14 @@ Comprobar con `$ ls`
 
 `$ curl -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moodle/docker-compose.yml > docker-compose.yml`
 
-Se descargará el archivo en la carpeta moodle. Comprobar con `$ ls`
-
-![Imagen 2](img/img2.jpeg)
 
 ### 4. Una vez descargado el archivo, se debe ejecutar con el comando:
 
-`docker-compose up`
-
 Se puede utilizar la opción `-d` que realizará el proceso en segundo plano
 
-![Imagen 3](img/img3.jpeg)
+`docker-compose up`
+
+![Imagen 2](img/img2.jpeg)
 
 
 ### 5. Una vez terminada la instalación y configuración del Moodle, verificar que se encuentre activo con el comando:
@@ -39,6 +36,8 @@ Se puede utilizar la opción `-d` que realizará el proceso en segundo plano
 #### 6. Comprobar que todo ha salido bien, accediendo a un navegador y colocando la dirección localhost:80 en la barra de búsqueda.
 
 Se debe mostrar una pantalla como la siguiente
+
+![Imagen 3](img/img3.jpeg)
 
 ![Imagen 4](img/img4.jpeg)
 
