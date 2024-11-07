@@ -39,7 +39,6 @@ Se debe mostrar una pantalla como la siguiente
 
 ![Imagen 3](img/img3.jpeg)
 
-![Imagen 4](img/img4.jpeg)
 
 ## Configuración de Moodle
 
@@ -49,11 +48,15 @@ Usuario: `user`
 
 Contraseña: `bitnami`
 
+![Imagen 4](img/img4.jpeg)
+
 ### 2. Se mostrará una pantalla como la siguiente:
 
 ![Imagen5](img/img5.jpeg)
 
 #### 1. Crear categoria
+
+##### 1. Ir a la sección "Site Administration" y luego en el menú "Courses" daremos click en la opcion añadir categoria 
 
 
 #### 2. Crear un curso
