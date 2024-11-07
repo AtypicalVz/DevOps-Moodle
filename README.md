@@ -70,9 +70,9 @@ Contraseña: `bitnami`
 
 ##### 3. Llenamos los campos de los detalles del curso como corresponda y en la sección final seleccionamos la opción para crear el curso
 
-##### 4. Podremos ver el curso en la pestaña "Home" de la plataforma
-
 ![Imagen 7](img/img7.jpeg)
+
+##### 4. Podremos ver el curso en la pestaña "Home" de la plataforma
 
 #### 3. Agregar usuarios al sistema
 
