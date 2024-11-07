@@ -74,10 +74,12 @@ Contraseña: `bitnami`
 
 ##### 4. Podremos ver el curso en la pestaña "Home" de la plataforma
 
+![Imagen 8](img/img8.jpeg)
+
 #### 3. Agregar usuarios al sistema
 
 ##### 1. Ir a la secciónd "Site Administration" y luego en el menú "Users"
-![Imagen 8](img/img8.jpeg)
+
 ![Imagen 9](img/img9.jpeg)
 
 ##### 2. Seleccionar la opción "Add a new user"
