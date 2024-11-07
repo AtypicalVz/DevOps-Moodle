@@ -78,15 +78,15 @@ Contraseña: `bitnami`
 
 #### 3. Agregar usuarios al sistema
 
-##### 1. Ir a la secciónd "Site Administration" y luego en el menú "Users"
+##### 1. Ir a la secciónd "Site Administration", luego en el menú "Users" y seleccionar la opción de "add a new user"
 
 ![Imagen 9](img/img9.jpeg)
 
-##### 2. Seleccionar la opción "Add a new user"
+##### 2. Llenar los campos de los detalles del usuario y guardar los cambios
 
 ![Imagen 10](img/img10.jpeg)
 
-##### 3. Llenar los campos de los detalles del usuario y guardar los cambios
+##### Al llenar guardar el usuario creado, nos mostrará una pantalla la cual nos indica cuales usuarios estan en el sistema y si queremos agregar a otro usuario.
 
 ![Imagen 11](img/img11.jpeg)
 
